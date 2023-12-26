@@ -1,2 +1,2 @@
-print(練習)
-input("プルリク練習")
+print(本番)
+input("プルリク本番")
